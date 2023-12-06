@@ -15,7 +15,7 @@ const Content = () => {
       <div className="container">
         <div className="branding">
           <div className="image"><img src={`${process.env.PUBLIC_URL}/icon-pwamap.svg`} alt=""/></div>
-          <div className="logo">Geolonia PWAマップ</div>
+          <div className="logo">佐和田料飲店組合MAP2024</div>
         </div>
 
         <p>これは佐和田飲食店マップです。ただいま開発中です。予めご了承下さい。</p>
