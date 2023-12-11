@@ -89,3 +89,119 @@
     bottom: 32px;
   }
 }
+
+.iphone-13-14-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 241px;
+  object-fit: cover;
+}
+.map2024 {
+  position: absolute;
+  top: 121px;
+  left: calc(50% - 84px);
+  color: var(--color-white);
+  display: inline-block;
+  width: 168px;
+  height: 24px;
+}
+.map,
+.map2024 {
+  font-size: var(--font-size-base);
+}
+.blank-line,
+.map {
+  margin: 0;
+}
+.div,
+.map-container {
+  position: absolute;
+  top: 298px;
+  left: 48px;
+  display: inline-block;
+  width: 293px;
+}
+.div {
+  top: 672px;
+  text-align: left;
+}
+.map4 {
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+}
+.span {
+  text-decoration: underline;
+}
+.a,
+.map-map {
+  color: inherit;
+}
+.map-map {
+  position: absolute;
+  top: 781px;
+  left: 48px;
+  display: inline-block;
+  width: 293px;
+}
+.icon {
+  position: relative;
+  width: 148px;
+  height: 141px;
+  object-fit: cover;
+}
+.icon1,
+.icon2,
+.icon3,
+.icon4,
+.icon5 {
+  position: relative;
+  width: 144px;
+  height: 139px;
+  object-fit: cover;
+}
+.icon2,
+.icon3,
+.icon4,
+.icon5 {
+  width: 147px;
+}
+.icon3,
+.icon4,
+.icon5 {
+  width: 145px;
+  height: 141px;
+}
+.icon4,
+.icon5 {
+  width: 148px;
+  height: 140px;
+}
+.icon5 {
+  width: 147px;
+  height: 142px;
+}
+.parent {
+  position: absolute;
+  top: 1300px;
+  left: 29px;
+  width: 332px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 7px;
+}
+.iphone-13-14-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2267px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
