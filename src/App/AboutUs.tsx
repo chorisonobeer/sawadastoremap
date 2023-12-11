@@ -74,7 +74,7 @@ const Content = () => {
         </p>
         <p className="blank-line">
           <span>メールマガジン登録フォームは </span>
-          <a className="a" href="https://form.run/@odewan-member" target="_blank">
+          <a className="a" href="https://form.run/@odewan-member" target="_blank" rel="noopener noreferrer">
             <span>
               <span className="span">こちら</span>
             </span>
@@ -109,14 +109,14 @@ const Content = () => {
         </p>
         <p className="blank-line">
           <span>webサイト: </span>
-          <a className="a" href="https://odekake-wanko-bu.com/" target="_blank">
+          <a className="a" href="https://odekake-wanko-bu.com/" target="_blank" rel="noopener noreferrer">
             <span>
               <span className="span">https://odekake-wanko-bu.com</span>
             </span>
           </a>
         </p>
         <p className="blank-line">
-          <a className="a" href="https://odekake-wanko-bu.com/" target="_blank">
+          <a className="a" href="https://odekake-wanko-bu.com/" target="_blank" rel="noopener noreferrer">
             <span>
               <span className="span">&nbsp;</span>
             </span>
@@ -127,7 +127,7 @@ const Content = () => {
           <a
             className="a"
             href="https://www.instagram.com/odewanbu/"
-            target="_blank"
+            target="_blank" rel="noopener noreferrer"
           >
             <span>
               <span className="span">@odewanbu</span>
