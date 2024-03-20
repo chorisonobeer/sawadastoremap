@@ -508,6 +508,12 @@
       "",
       "",
       "https://picsum.photos/800/600?random=50?&blur=2"
+    ],
+    [],
+    [
+      "",
+      "",
+      "   index: number;\r\n    distance?: number;\r\n    'タイムスタンプ': string;\r\n    '緯度': string;\r\n    '経度': string;\r\n    'スポット名': string;\r\n    'カテゴリ': string;\r\n    '紹介文': string;\r\n    '画像': string;\r\n    'URL': string;\r\n    'Instagram': string;\r\n    'Twitter': string;\r\n    'Facebook': string;\r\n    '公式サイト': string"
     ]
   ]
 }
