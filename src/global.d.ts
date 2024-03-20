@@ -10,6 +10,7 @@ declare namespace Pwamap {
     '紹介文': string;
     '画像': string;
     'URL': string;
+    'TEL': string;
     'Instagram': string;
     'Twitter': string;
     'Facebook': string;
