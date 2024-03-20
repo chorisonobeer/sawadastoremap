@@ -21,7 +21,7 @@ const Content = () => {
    <div className="map2024">佐和田料飲店組合MAP2024</div>
       <div className="map-container">
         <p className="map">
-          <b>おでわんMAPとは</b>
+          <b>佐和田料飲店組合MAPとは</b>
         </p>
         <p className="blank-line">
           <b>&nbsp;</b>
